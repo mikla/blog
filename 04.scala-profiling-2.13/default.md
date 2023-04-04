@@ -25,7 +25,7 @@ or
 
 I will try to keep my story short as possible.
 
-So, how to make it all work for Scala 2.13.
+So, how to make it all work for Scala 2.13. (Sacla 2.13.3 in particular)
 
 [scalac-profiling](https://github.com/scalacenter/scalac-profiling) is published only for Scala 2.12, but
 thanks for Open Source community, there is a forked version of it compiled for
