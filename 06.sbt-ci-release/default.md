@@ -22,8 +22,7 @@ Add the plugin to your `project/plugins.sbt`:
 addSbtPlugin("com.github.sbt" % "sbt-ci-release" % "1.11.2")
 ```
 
-> **Note:** Version 1.11.0+ uses the new Sonatype Central Portal instead of the legacy OSSRH. The Central Portal does *
-*not** support SNAPSHOT publishing.
+> **Note:** Version 1.11.0+ uses the new Sonatype Central Portal instead of the legacy OSSRH. The Central Portal does **not** support SNAPSHOT publishing.
 
 ## Step 2: Configure build.sbt
 
@@ -192,7 +191,7 @@ The GitHub Action will automatically:
 2. Generate sources and javadoc JARs
 3. Sign all artifacts with GPG
 4. Upload to Sonatype Central Portal
-5. Publish to Maven Central
+5. Publish to Maven Central (artifacts typically appear within 10-30 minutes)
 
 ## Troubleshooting
 

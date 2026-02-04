@@ -1,4 +1,5 @@
 # Arduino game of life
+#### date: 15.03.2020 14:00
 
 ### Given
 - Arduino UNO

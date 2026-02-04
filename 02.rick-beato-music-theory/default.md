@@ -1,8 +1,8 @@
 # Rick Beato music theory (transcription)
 #### date: 01.07.2018 20:00
 
-> I made these notes for myself while I was watching Rick Beato's [Music Theory Lecture - What Every Pro Musician Needs To Know](https://www.youtube.com/watch?v=T5SmcH11kUk) 
-> just be able to revisit this stuff quickly without going though the video again.
+> I made these notes for myself while I was watching Rick Beato's [Music Theory Lecture - What Every Pro Musician Needs To Know](https://www.youtube.com/watch?v=T5SmcH11kUk)
+> just to be able to revisit this stuff quickly without going through the video again.
 > These are roughly written notes and they are not really complete, I stopped at some point where it was difficult to follow.
 
 [youtube](https://www.youtube.com/watch?v=T5SmcH11kUk)
@@ -15,7 +15,7 @@ Order of sharps: F#, C#, G#, D#, A#, E#, B#
 
 Order of flats (reversed order of sharps): Bb, Eb, Ab, Db, Gb, Cb, Fb
 
-So, you we have 4 sharps in the key: take first 4 sharps, E major or example has F#, C#, G#, D#
+So, if we have 4 sharps in the key: take first 4 sharps, E major for example has F#, C#, G#, D#
 
 #### What you do with this once you know it?
 
@@ -47,7 +47,7 @@ Half Diminished = VII<sup>7b5</sup>
 
 * iii<sup>7</sup> = Phrygian
 
-* IVmaj<sup>7</sup> = Lydiain
+* IVmaj<sup>7</sup> = Lydian
 
 * Vmaj<sup>7</sup> = Mixolydian
 
@@ -69,17 +69,17 @@ Let's say we have this chord progression: (Song: all the things you are) (First 
 
 | Dbmaj<sup>7</sup> |
 
-You have to know what key it is. The first step is to look to a Dominant chord, so it's Eb7, Eb7 is the Vth chord only in one key. So the scale that you play over each of these chords corresponds with scale that goes withing these roman numerals. 
+You have to know what key it is. The first step is to look to a Dominant chord, so it's Eb7, Eb7 is the Vth chord only in one key. So the scale that you play over each of these chords corresponds with scale that goes within these roman numerals. 
 
-So **vi** mode is Aeolian, we we play F Aeolian. 
+So **vi** mode is Aeolian, we play F Aeolian. 
 
 ii<sup>7</sup> we play Bb Dorian, then Eb Mixolydian, Ab Ionian and Db Lydian.
 
-So, is you are soloing over this progression you gonna play: F Aeolian, Bb Dorian, Eb Mixolydian, Ab Ionian, Db Lydian.
+So, if you are soloing over this progression you gonna play: F Aeolian, Bb Dorian, Eb Mixolydian, Ab Ionian, Db Lydian.
 
-So need to understand chords — scale relationship.
+So you need to understand chords — scale relationship.
 
-All these 5 chords were in Ab major scala. Now let's add more chords to this progression:
+All these 5 chords were in Ab major scale. Now let's add more chords to this progression:
 
 <u>C major:</u>
 
@@ -139,7 +139,7 @@ Min<sup>7b5</sup> = 1 b3 b5 b7
 
 Dim<sup>7</sup> = 1 b3 b5 bb7 (double flat 7)
 
-These are basic dominant chords that everybody should know.
+These are basic seventh chords that everybody should know.
 
 ###### Upper extensions (19:00)	
 
@@ -155,19 +155,11 @@ E G C, E C G (1st inversion)
 
 G C E, G E C (2nd inversion)		
 
-Any combination of these 3 notes is a C major chord, doen't matter what inversion it is.
+Any combination of these 3 notes is a C major chord, doesn't matter what inversion it is.
 
 When you have 4 note chord you have extra inversions there.
 
 Cmaj<sup>7</sup> = C E G B
-
-##### Other modes to understand (24:18)
-
-###### Melodic minor
-
-###### Harmonic minor (26:35)
-
-##### Aux scales (28:23)
 
 ##### Common progressions
 

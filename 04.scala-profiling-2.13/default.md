@@ -1,13 +1,13 @@
 # Scala compiler profiling (2.13)
 #### date: 05.02.2021 17:41
 
-This a pure practical story of me trying to profile Scala compilation time.
+This is a purely practical story of me trying to profile Scala compilation time.
 
 There is a great article about this
 topic: [SPEEDING UP COMPILATION TIME WITH SCALAC-PROFILING](https://www.scala-lang.org/blog/2018/06/04/scalac-profiling.html)
 
 However, when I decided to try [scalac-profiling](https://github.com/scalacenter/scalac-profiling) out — I
-run into a lot of troubles like:
+ran into a lot of trouble like:
 
 ```scala
   [error] java.lang.reflect.InvocationTargetException
@@ -23,12 +23,12 @@ or
 [error] bad option: -P:scalac-profiling:show-profiles
 ```
 
-I will try to keep my story short as possible.
+I will try to keep my story as short as possible.
 
 So, how to make it all work for Scala 2.13. (Scala 2.13.3 in particular)
 
 [scalac-profiling](https://github.com/scalacenter/scalac-profiling) is published only for Scala 2.12, but
-thanks for Open Source community, there is a forked version of it compiled for
+thanks to the Open Source community, there is a forked version of it compiled for
 2.13 [here](https://gitlab.com/leonard.ehrenfried/scalac-profiling) (Huge thanks to Leonard Ehrenfried).
 
 Now, step by step, they are very similar to original article. However....

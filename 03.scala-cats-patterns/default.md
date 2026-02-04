@@ -1,8 +1,12 @@
-# Scala cats patterns 
-#### date: 24.01.2021 16:25 
+# Scala cats patterns
+#### date: 24.01.2021 16:25
 
 Here I have a list of patterns that can be simplified with Scala's [Cats](https://github.com/typelevel/cats)
 library.
+
+```scala
+import cats.syntax.all._
+```
 
 Examples that are given here are purely for demonstration.
 
@@ -13,11 +17,11 @@ Example:
 ```scala
 val list: List[Int] = List(1, 2, 3, 4, 5)
 
-val yearSum = list.collect {
+val evenSum = list.collect {
   case i if i % 2 == 0 => i
 }.sum
 
-val yearSum1 = list.collectFold {
+val evenSum1 = list.collectFold {
   case i if i % 2 == 0 => i
 }
 ```
