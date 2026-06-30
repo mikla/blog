@@ -1,6 +1,8 @@
 # How I sailed the Atlantic
 #### date: 27.06.2026 12:00
 
+*This article was auto-translated by Claude from the original Russian: [vas3k.club/post/31857](https://vas3k.club/post/31857/).*
+
 > "— A timeline of the clusterfuck I got myself into." — that's how the audio message I recorded on April 15th began, lying in my cabin. I had 20 minutes left until my next watch. I'd more or less come back to my senses, but I was still eyeing the food with suspicion.
 
 But let's rewind about a month.
